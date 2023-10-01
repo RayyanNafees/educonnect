@@ -838,7 +838,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
    7.0 Campaigns Section
    ========================================================================== */
 .campaigns-section{
-	background-image: url(../images/featured-bg.jpg);
+	background-image: url(../assets/images/featured-bg.jpg);
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	background-position: center center;
@@ -1025,7 +1025,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
    9.0 Counter Section
    ========================================================================== */
 .counter-section{
-	background-image: url(../images/counters-bg.jpg);
+	background-image: url(../assets/images/counters-bg.jpg);
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	background-position: center center;
@@ -1183,7 +1183,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
    ========================================================================== */
 .widget-section{
     background-color: #222;
-    background-image: url(../images/map.png);
+    background-image: url(../assets/images/map.png);
     background-position: right 150px center;
     background-repeat: no-repeat;
     width: 100%;
@@ -1233,7 +1233,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
    14.0 Hero Section
    ========================================================================== */
 .hero-section{
-	background-image: url(../images/hero-bg.jpg);
+	background-image: url(../assets/images/hero-bg.jpg);
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	background-position: center center;
@@ -1258,7 +1258,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
    15.0 Page Header Section
    ========================================================================== */
 .pager-header{
-    background-image: url(../images/page-header-bg.jpg);
+    background-image: url(../assets/images/page-header-bg.jpg);
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	background-position: center center;
@@ -1311,7 +1311,7 @@ a,a:hover, .overlay, img, .form-control,  .form-control:hover, button{
    16.0 CTA Section
    ========================================================================== */
 .cta-section{
-    background-image: url(../images/cta-bg.jpg);
+    background-image: url(../assets/images/cta-bg.jpg);
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	background-position: center center;
